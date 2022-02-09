@@ -1,0 +1,301 @@
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Core.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Ninject.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\AutoMapper.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\log4net.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Core.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Core.dll.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Ninject.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\AutoMapper.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\log4net.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddUser.resources
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Ninject.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\log4net.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Ninject.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\log4net.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddUser.resources
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddLogs.resources
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.pdb
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Core.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Entities.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\AutoMapper.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Ninject.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\log4net.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Core.pdb
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Core.dll.config
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Entities.pdb
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\AutoMapper.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.pdb
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Ninject.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\log4net.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\da\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\de\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\es\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\it\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddUser.resources
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddLogs.resources
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.dll
+D:\Visual Studio\Project\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddRolesDb.resources
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Core.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Ninject.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\log4net.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Core.pdb
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Core.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Ninject.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.pdb
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\log4net.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddUser.resources
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddLogs.resources
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddRolesDb.resources
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\BM-Durali\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Ninject.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\log4net.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Core.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Ninject.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\FluentValidation.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\log4net.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\PostSharp.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddUser.resources
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddLogs.resources
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.Migrations.AddRolesDb.resources
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\DataAccess\obj\Debug\DataAccess.pdb

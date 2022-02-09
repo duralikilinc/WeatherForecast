@@ -1,0 +1,86 @@
+{
+  "UserName": "SDU\\duralikilinc",
+  "MessageObject": {
+    "FullName": "UserManager",
+    "MethodName": "GetByUserNameAndPassword",
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "String",
+        "Value": "durali"
+      },
+      {
+        "Name": "password",
+        "Type": "String",
+        "Value": "123456"
+      }
+    ]
+  }
+}
+{
+  "UserName": "SDU\\duralikilinc",
+  "MessageObject": {
+    "FullName": "UserManager",
+    "MethodName": "GetByUserNameAndPassword",
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "String",
+        "Value": "durali"
+      },
+      {
+        "Name": "password",
+        "Type": "String",
+        "Value": "123456"
+      }
+    ]
+  }
+}
+{
+  "UserName": "SDU\\duralikilinc",
+  "MessageObject": {
+    "FullName": "UserManager",
+    "MethodName": "GetUserRoles",
+    "Parameters": [
+      {
+        "Name": "users",
+        "Type": "Users",
+        "Value": {
+          "Id": 2,
+          "RoleId": 0,
+          "ConfirmId": "3c61b5ac-90fc-4ece-9ec1-4634bae8471b",
+          "FirsName": "durali",
+          "LastName": "kýlýnç",
+          "UserName": "durali",
+          "Password": "c5042a1856e10da554e69d7824c1f6b6",
+          "Email": "bilmuhdurali@gmail.com",
+          "IsApproved": true
+        }
+      }
+    ]
+  }
+}
+{
+  "UserName": "SDU\\duralikilinc",
+  "MessageObject": {
+    "FullName": "UserManager",
+    "MethodName": "GetUserRoles",
+    "Parameters": [
+      {
+        "Name": "users",
+        "Type": "Users",
+        "Value": {
+          "Id": 2,
+          "RoleId": 0,
+          "ConfirmId": "3c61b5ac-90fc-4ece-9ec1-4634bae8471b",
+          "FirsName": "durali",
+          "LastName": "kýlýnç",
+          "UserName": "durali",
+          "Password": "c5042a1856e10da554e69d7824c1f6b6",
+          "Email": "bilmuhdurali@gmail.com",
+          "IsApproved": true
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,609 @@
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.rsp
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.rsp
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.AppContext.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Console.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.rsp
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\WebGrease.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csprojAssemblyReference.cache
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CopyComplete
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Business.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Core.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Entities.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Ninject.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\AutoMapper.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\EntityFramework.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\FluentValidation.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\log4net.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\PostSharp.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Business.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Core.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Core.dll.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Entities.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\DataAccess.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll.config
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\Ninject.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\AutoMapper.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\EntityFramework.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\FluentValidation.pdb
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\FluentValidation.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\log4net.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\PostSharp.xml
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\cs\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\da\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\de\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\es\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\fa\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\fi\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\fr\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\it\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\ko\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\mk\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\nl\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\pl\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\pt\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\ru\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\sv\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\tr\FluentValidation.resources.dll
+C:\Users\SoftwareDeveloper\Source\Repos\WeatherForecastProject\MvcWebUI\bin\zh-CN\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csprojAssemblyReference.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.rsp
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.rsp
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.AppContext.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Console.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.rsp
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Entities.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\log4net.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Ninject.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\PostSharp.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\WebGrease.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Entities.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\log4net.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Ninject.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\PostSharp.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.xml
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.pdb
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\cs\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\da\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\de\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\es\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\fa\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\fi\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\fr\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\it\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\ko\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\mk\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\nl\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\pl\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\pt\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\ru\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\sv\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\tr\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\zh-CN\FluentValidation.resources.dll
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pssym
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CopyComplete
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll.postsharp
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.rsp
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.rsp
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.AppContext.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Console.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Http.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Sockets.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.rsp
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Business.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Core.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Entities.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\EntityFramework.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\log4net.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Ninject.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\PostSharp.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\WebGrease.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\FluentValidation.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\AutoMapper.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Business.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Core.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Core.dll.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\DataAccess.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll.config
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Entities.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\EntityFramework.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\log4net.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Ninject.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\PostSharp.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\FluentValidation.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\FluentValidation.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\AutoMapper.xml
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\cs\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\da\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\de\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\es\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\fa\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\fi\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\fr\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\it\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\ko\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\mk\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\nl\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\pl\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\pt\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\ru\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\sv\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\tr\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\zh-CN\FluentValidation.resources.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pssym
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csprojAssemblyReference.cache
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CopyComplete
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll.postsharp
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.pdb
+D:\Visual Studio\Project\WeatherForecastProject\MvcWebUI\bin\Business.dll.config
+C:\Users\BM-Durali\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.rsp
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.rsp
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.AppContext.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Console.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.rsp
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Business.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Core.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Entities.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\EntityFramework.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\log4net.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Ninject.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\PostSharp.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\WebGrease.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\FluentValidation.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Business.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Business.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Core.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Core.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\DataAccess.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll.config
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Entities.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\EntityFramework.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\log4net.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Ninject.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\PostSharp.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\FluentValidation.pdb
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\FluentValidation.xml
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\cs\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\da\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\de\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\es\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\fa\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\fi\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\fr\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\it\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\ko\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\mk\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\nl\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\pl\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\pt\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\ru\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\sv\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\tr\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\zh-CN\FluentValidation.resources.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pssym
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csprojAssemblyReference.cache
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CopyComplete
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll.postsharp
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll
+C:\Users\BM-Durali\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.exe.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csc.rsp
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.exe.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\csi.rsp
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.AppContext.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Console.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.exe.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\vbc.rsp
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Entities.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\log4net.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Ninject.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\PostSharp.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\WebGrease.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Business.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Core.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\DataAccess.dll.config
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Entities.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\log4net.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Ninject.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\PostSharp.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Helpers.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Mvc.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Optimization.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.Razor.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Newtonsoft.Json.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Antlr3.Runtime.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.pdb
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\FluentValidation.xml
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\cs\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\da\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\de\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\es\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\fa\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\fi\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\fr\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\it\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\ko\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\mk\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\nl\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\pl\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\pt\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\ru\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\sv\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\tr\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\zh-CN\FluentValidation.resources.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\bin\MvcWebUI.pssym
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.AssemblyReference.cache
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.csproj.CopyComplete
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll.postsharp
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.dll
+C:\Users\duralikilinc\Desktop\WeatherForecastProject\MvcWebUI\obj\Debug\MvcWebUI.pdb

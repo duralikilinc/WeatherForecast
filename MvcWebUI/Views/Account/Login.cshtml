@@ -1,0 +1,119 @@
+﻿@model MvcWebUI.Models.LoginModel
+@{
+    ViewBag.Title = "Login Page";
+    Layout = "../Shared/_LayoutLogin.cshtml";
+}
+
+<style>
+    *,
+    *:before,
+    *:after {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+                <p style="color: red;">@Html.ValidationMessage("MemberException")</p>
+                <section id="loginForm">
+                    @using (Html.BeginForm("Login", "Account",FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+                        <br />
+                        <br />
+                        <br />
+                        <center>
+                            <h4>Hesabınızla Giriş Yapınız</h4>
+                        </center>
+                        <hr />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                        <center>
+                            <h2 style="color:green;">Giriş </h2>
+                        </center>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Users.UserName, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(m => m.Users.UserName, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(m => m.Users.UserName, "", new { @class = "text-danger" })
+                            </div>
+
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Users.Password, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.PasswordFor(m => m.Users.Password, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(m => m.Users.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                      
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                @Html.ActionLink("Kayıt Ol", "Register",null,new{@class="btn btn-info"})
+                                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modelForgetPassword">
+                                    Şifremi Unuttum
+                                </button>
+                                
+                                <input type="submit" value="Giriş Yap" class="btn btn-success" />
+
+                            </div>
+                        </div>
+
+                    }
+                </section>
+
+            </div>
+            <div class="col-md-2">
+
+
+            </div>
+        </div>
+
+        <div class="modal" id="modelForgetPassword" aria-labelledby="modelForgetPassword" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modelForgetPassword">Şifremi Unuttum</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                   
+                        <br />
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label class="input-group-text col-md-3" for="inputEmail">E-Mail</label>
+                                <input type="email" required="" class="form-control" id="inputEmail"/>
+                                <small id="inputEmail" class="text-muted">
+                                    *Aktivasyon için gerekli mail adresi
+                                </small>
+                            </div>
+                            <br/>
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <button type="button" onclick="ForgetPassword($('#inputEmail').val())"  class="btn btn-warning">
+                                        Şifre Yenile
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

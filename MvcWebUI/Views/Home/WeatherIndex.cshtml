@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Hava Tahmini";
+}
+
+
+<br />
+<br />
+<br />
+<div class="row">
+    <div class="col-md-7">
+        <div class="row">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" id="inputSearchLocation" placeholder="Konumunuzu Giriniz" aria-label="Konumunuzu Giriniz" aria-describedby="button-tahmin">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-success" onclick="WeatherApi($('#inputSearchLocation').val())" type="button" id="button-tahmin">Getir</button>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <center><h4>Günlük Hava Durumu</h4></center>
+            <table class="table table-striped" id="loadTable">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Konum</th>
+                        <th scope="col">Durum</th>
+                        <th scope="col">Sıcaklık (°C)</th>
+                        <th scope="col">Hissedilen Sıcaklık (°C)</th>
+                        <th scope="col">Min. Sıcaklık (°C)</th>
+                        <th scope="col">Max. Sıcaklık (°C)</th>
+                        <th scope="col">Nem (%)</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td colspan="7">Veri Yok</td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <div class="offset-2 col-md-3">
+
+        <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+            <div class="card-header"><p id="location"></p></div>
+            <div class="card-body">
+                <h5 class="card-title"><p id="description"></p></h5>
+                <p class="card-text"><h1 id="temp"></h1></p>
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+</div>
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        getLocation();
+    });
+
+</script>
